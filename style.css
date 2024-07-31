@@ -30,3 +30,9 @@ h4 {
 
 	margin-top: calc((100vh - 600px) / 2);
 }
+
+.media-image img {
+	width: 100%;
+	height: fit-content;
+	border-radius: 1em;
+}
